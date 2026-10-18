@@ -38,7 +38,7 @@
 
 <img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/pakialakshmi-complete/mk-quote.svg" width="100%" alt="Small steps, big dreams"/>
 
-<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/pakialakshmi-complete/mk-log2.svg" width="100%" alt="Commit log"/>
+<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/output/commit-log.svg" width="100%" alt="Live GitHub Commit Log"/>
 
 <div align="center">
 <picture>
