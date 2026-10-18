@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/mk-hero4.svg" width="100%" alt="Hi, I'm Pakialakshmi"/>
+<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi-complete/mk-hero4.svg" width="100%" alt="Hi, I'm Pakialakshmi"/>
 
-<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/mk-typing.svg" width="100%" alt="UI/UX Designer · Frontend Developer · Creative Coder"/>
+<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi-complete/mk-typing.svg" width="100%" alt="UI/UX Designer · Frontend Developer · Creative Coder"/>
 
-<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/mk-about.svg" width="100%" alt="About"/>
+<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi-complete/mk-about.svg" width="100%" alt="About"/>
 
-<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/mk-skills2.svg" width="100%" alt="Skills"/>
+<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi-complete/mk-skills2.svg" width="100%" alt="Skills"/>
 
-<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/mk-projects.svg" width="100%" alt="Projects"/>
+<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi-complete/mk-projects.svg" width="100%" alt="Projects"/>
 
 <div align="center">
 
@@ -16,15 +16,15 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/mk-showcase.svg" width="100%" alt="Design case studies"/>
+<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi-complete/mk-showcase.svg" width="100%" alt="Design case studies"/>
 
-<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/mk-learning.svg" width="100%" alt="Currently learning"/>
+<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi-complete/mk-learning.svg" width="100%" alt="Currently learning"/>
 
-<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/mk-journey.svg" width="100%" alt="Education and achievements"/>
+<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi-complete/mk-journey.svg" width="100%" alt="Education and achievements"/>
 
-<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/mk-quote.svg" width="100%" alt="Small steps, big dreams"/>
+<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi-complete/mk-quote.svg" width="100%" alt="Small steps, big dreams"/>
 
-<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/mk-log2.svg" width="100%" alt="Commit log"/>
+<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi-complete/mk-log2.svg" width="100%" alt="Commit log"/>
 
 <div align="center">
 <picture>
@@ -44,7 +44,7 @@
 <img src="https://streak-stats.demolab.com/?user=pakialakshmi&background=0A0508&ring=EC4899&fire=F472B6&currStreakNum=F5E6EE&sideNums=F5E6EE&currStreakLabel=F472B6&sideLabels=F472B6&dates=B8849D&stroke=7A1D4F&border=7A1D4F&border_radius=14" alt="GitHub streak"/>
 </div>
 
-<a href="https://github.com/pakialakshmi"><img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/mk-connect4.svg" width="100%" alt="Connect"/></a>
+<a href="https://github.com/pakialakshmi"><img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi-complete/mk-connect4.svg" width="100%" alt="Connect"/></a>
 
 <div align="center">
 
