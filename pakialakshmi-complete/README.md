@@ -3,7 +3,14 @@
 
 <img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/pakialakshmi-complete/mk-typing.svg" width="100%" alt="UI/UX Designer · Frontend Developer · Creative Coder"/>
 
-<img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/pakialakshmi-complete/mk-about.svg" width="100%" alt="About"/>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/pakialakshmi-complete/mk-about.svg?v=2"
+    width="100%"
+    alt="About - Pakialakshmi"
+  />
+</div>
 
 <img src="https://raw.githubusercontent.com/pakialakshmi/pakialakshmi/main/pakialakshmi-complete/mk-skills2.svg" width="100%" alt="Skills"/>
 
